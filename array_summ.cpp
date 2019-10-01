@@ -19,5 +19,5 @@ int main()
 
         sum+=a[i];
     }
-    cout<<"Sum of array elements"<<sum;
+    cout<<"sum of array elements"<<sum;
 }
